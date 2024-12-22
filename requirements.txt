@@ -1,0 +1,10 @@
+# requirements.txt
+
+schedule
+requests
+beautifulsoup4
+pytz
+matplotlib
+pandas
+seaborn
+Jinja2
